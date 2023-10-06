@@ -1,0 +1,10 @@
+.form-sect .display-form{
+margin: 0px auto;
+}
+.feedback-form .form-group {
+    margin: 10px auto;
+}
+.feedback-form .form-control {
+    font-size: 16px;
+    font-style: italic;
+}

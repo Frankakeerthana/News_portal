@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+}
+.elections-sect{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.elections-sect select{
+    margin: 0px 8px;
+    padding: 6px;
+    border-radius: 5px;
+}
+.candidate-data #candidate-list {
+    margin: 70px 8%;
+}
+.candidate-data #candidate-list .table tr {
+    text-align: center;
+}
+.candidate-data #candidate-list .table td{
+    text-align: center;
+    text-transform: capitalize;
+}

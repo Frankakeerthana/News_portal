@@ -1,0 +1,15 @@
+.candidate-name{
+    text-align: center;
+    margin: 20px 0px;
+}
+.candidate-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.person-details{
+    padding: 20px 40px;
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    box-shadow: 0 4px 6px rgba(0,0,0,.2);
+    border-radius: 5px;
+}
